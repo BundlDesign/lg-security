@@ -1,4 +1,4 @@
-
+console.log('code synced');
 var isNL = partOfURL('ziggo');
 var addons;
 var unlimited_devices_extra = false;
